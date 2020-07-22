@@ -1,8 +1,12 @@
 ---
 title: markdown使用
 date: 2020.7.22
-tags: markdown | 语法
+tags: [markdown,语法]
 ---
+
+markdown语法简介
+
+<!-- more -->
 
 ## `注释`
 
