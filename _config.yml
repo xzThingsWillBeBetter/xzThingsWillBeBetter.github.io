@@ -93,9 +93,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: indigo
+theme: Wikitten
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: ''
+deploy: 
+    type: git 
+    repository: git@github.com:xzThingsWillBeBetter/xzThingsWillBeBetter.github.io.git
+    branch: release1.0

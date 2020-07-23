@@ -1,7 +1,12 @@
 ---
-title: markdown使用
+title: Markdown使用
 date: 2020.7.22
 tags: [markdown,语法]
+categories: 
+    - technology
+    - markdown
+mathjax: true
+toc: true
 ---
 
 markdown语法简介
@@ -281,7 +286,7 @@ $$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
     
 - 用六个`包裹多行代码
 
-    ```
+    ```c
     include <stdio.h>
     int main(void)
     {
